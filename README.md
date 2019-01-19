@@ -12,3 +12,9 @@ https://www.youtube.com/watch?time_continue=21&v=KpduDEtU8eo
 
 
 Make Sure to increase or decrease the sensitivity of the PIR sensor using orange screw at the bottom.
+
+
+
+
+
+
